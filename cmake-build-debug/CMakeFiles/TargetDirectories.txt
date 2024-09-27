@@ -1,3 +1,0 @@
-/Users/jp/Documents/GitHub.nosync/up-with-the-boids/cmake-build-debug/CMakeFiles/example.dir
-/Users/jp/Documents/GitHub.nosync/up-with-the-boids/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jp/Documents/GitHub.nosync/up-with-the-boids/cmake-build-debug/CMakeFiles/rebuild_cache.dir
